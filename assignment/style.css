@@ -18,6 +18,11 @@ p{
     font-style: italic;
 }
 /* Put a border around your image */
+img{
+    border: 8px;
+    border-style: double;
+    border-color:rgb(246, 174, 58)
+}
 
 
 /* Change the font-family of your list */
